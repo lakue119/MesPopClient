@@ -1,5 +1,4 @@
-# Develop Period
-2018.11~ 2019.01
+Develop Period : 2018.11~ 2019.01
 
 # MesPopClient
 
