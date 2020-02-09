@@ -20,6 +20,7 @@ DevExpress에 있는 여러가지 컨트롤을 사용해 기존의 WinForm과는
 * Visial Studio 2002
 * Visual Studio 2014
 * DevExpress
+* Android studio
 
 # Program Stacks
 * C#
